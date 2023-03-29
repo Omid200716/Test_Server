@@ -1,0 +1,16 @@
+{
+  "p1": {
+    "id": 1,
+    "name":"Omid",
+    "age":30,
+    "favoriteColor":"blue",
+    "data":[1, 2, 3, 4, 5]
+  },
+  "p2": {
+    "id": 2,
+    "name":"Nikzad",
+    "age":60,
+    "favoriteColor":"black",
+    "data":["a", "b", "c", "d", "e"]
+  }
+}
